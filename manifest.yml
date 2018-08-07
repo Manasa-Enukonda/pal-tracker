@@ -4,6 +4,5 @@ applications:
   path: build/libs/pal-tracker.jar
   routes:
   - route: ps.me.apps.pcf.paltraining.perficient.com
- #- route: ps-pal-tracker-review.apps.chicken.pal.pivotal.io
   env:
     WELCOME_MESSAGE: Hello from the review environment
